@@ -100,6 +100,7 @@ NVD_API_KEY=your_nvd_api_key_here
 ## Usage
 
 ```bash
+pip insall -r requirements.txt
 python3 main.py
 ```
 
