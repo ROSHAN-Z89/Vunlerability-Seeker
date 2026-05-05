@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Platform-Linux-green?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Version-2.0-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Made%20by-R05HAN-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made%20by-R0SHAN-purple?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -194,7 +194,7 @@ This tool is developed strictly for **educational purposes** and **authorized pe
 
 ## Author
 
-**R05HAN**
+**ROSHAN**
 
 <p>
   <a href="https://github.com/Roshan-z89">
@@ -211,5 +211,5 @@ This tool is developed strictly for **educational purposes** and **authorized pe
 ---
 
 <p align="center">
-  Developed by R05HAN &nbsp;|&nbsp; For educational and authorized use only
+  Developed by ROSHAN &nbsp;|&nbsp; For educational and authorized use only
 </p>
